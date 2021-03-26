@@ -12,15 +12,25 @@ security and reliability.
 ## Instances
 
 - https://send.vis.ee/ (10GB, 7 days) ([maintainer](https://github.com/timvisee), [contact](https://timvisee.com/contact))
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.vis.ee/__version__)
 - https://send.datahoarder.dev/ (1GB, 1 day)
-- https://send.navennec.net/ (1GB, 1 day)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.datahoarder.dev/__version__)
 - https://send.elasticbyte.io/ (1GB, 1 day)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.elasticbyte.io/__version__)
+- https://send.navennec.net/ (1GB, 1 day)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.navennec.net/__version__)
 - https://fileupload.ggc-project.de/ (1GB, 1 day)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://fileupload.ggc-project.de/__version__)
 - https://send.skyhelm.cloud:8443/ (1GB, 1 day)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.skyhelm.cloud:8443/__version__)
 - http://send.busyhe.cn/ (1GB, 1 day)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=http://send.busyhe.cn/__version__)
 - https://send.portailpro.net/ (10GB, 30 days)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.portailpro.net/__version__)
 - https://bytefile.de/ (5GB, 7 days)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://bytefile.de/__version__)
 - https://transfer.acted.org/ (5GB, 7 days)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://transfer.acted.org/__version__)
 
 ---
 
