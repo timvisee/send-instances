@@ -8,9 +8,11 @@ This page holds a list of public [Send][send] instances.
 
 ## Instances
 
-- https://send.vis.ee/ (10GB, 7 days) ([maintainer](https://timvisee.com/contact))
+- https://send.vis.ee/ (10GB, 7 days) ([maintainer](https://github.com/timvisee), [contact](https://timvisee.com/contact))
 
-### How to use
+---
+
+## How to use
 
 To use a specific instance, simply open the application in your webbrowser.
 
@@ -22,7 +24,7 @@ the `--host URL` flag while uploading.
 ffsend upload --host https://send.vis.ee/ FILE
 ```
 
-### Host your own instance
+## Host your own instance
 
 You can host your own [Send][send] instance. Read the
 [deployment](https://github.com/timvisee/send#deployment) or [docker](https://github.com/timvisee/send/blob/master/docs/docker.md) documentation for details.
@@ -32,7 +34,7 @@ https://github.com/timvisee/send-docker-compose
 
 If you plan to host it publicly, please consider to add it to this list.
 
-### Submit changes
+## Submit changes
 
 To submit changes to this list, please open a pull request or issue.
 
