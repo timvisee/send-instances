@@ -6,9 +6,21 @@ This page holds a list of public [Send][send] instances.
 - [Host your own instance](#host-your-own-instance)
 - [Submit changes](#submit-changes)
 
+This page does not give any promises or warranties with regard to instance
+security and reliability.
+
 ## Instances
 
 - https://send.vis.ee/ (10GB, 7 days) ([maintainer](https://github.com/timvisee), [contact](https://timvisee.com/contact))
+- https://send.datahoarder.dev/ (1GB, 1 day)
+- https://send.navennec.net/ (1GB, 1 day)
+- https://send.elasticbyte.io/ (1GB, 1 day)
+- https://fileupload.ggc-project.de/ (1GB, 1 day)
+- https://send.skyhelm.cloud:8443/ (1GB, 1 day)
+- http://send.busyhe.cn/ (1GB, 1 day)
+- https://send.portailpro.net/ (10GB, 30 days)
+- https://bytefile.de/ (5GB, 7 days)
+- https://transfer.acted.org/ (5GB, 7 days)
 
 ---
 
