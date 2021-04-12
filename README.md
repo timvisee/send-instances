@@ -21,8 +21,6 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.navennec.net/__version__)
 - https://fileupload.ggc-project.de/ (1GB, 1 day)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://fileupload.ggc-project.de/__version__)
-- https://send.skyhelm.cloud:8443/ (1GB, 1 day)
-  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.skyhelm.cloud:8443/__version__)
 - http://send.busyhe.cn/ (1GB, 1 day)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=http://send.busyhe.cn/__version__)
 - https://send.portailpro.net/ (10GB, 30 days)
