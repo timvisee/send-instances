@@ -13,7 +13,7 @@ security and reliability.
 
 - https://send.vis.ee/ (10GB, 7 days) ([maintainer](https://github.com/timvisee), [contact](https://timvisee.com/contact))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.vis.ee/__version__)
-- https://send.datahoarder.dev/ ([maintainer](https://github.com/whalehub), [contact](mailto:admin@datahoarder.dev)) (1GB, 1 day)
+- https://send.datahoarder.dev/ (1GB, 1 day) ([maintainer](https://github.com/whalehub), [contact](mailto:admin@datahoarder.dev))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.datahoarder.dev/__version__)
 - https://send.elasticbyte.io/ (1GB, 1 day)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.elasticbyte.io/__version__)
