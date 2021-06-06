@@ -36,6 +36,7 @@ security and reliability.
 - https://transfer.acted.org/ (5GB, 7 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://transfer.acted.org/__version__)
 - https://send.lambda.dance/ (2.5GB, 7 days) ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.lambda.dance/__version__)
+- https://send.niagan.org (8GB, 14 days) ([maintainer](https://github.com/atilleh)) ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.niagan.org/__version__)
 
 ---
 
