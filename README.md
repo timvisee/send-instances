@@ -25,8 +25,6 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://drop.chapril.org/__version__)
 - https://send.simaosilva.pt/ (2.5GB, 7 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.simaosilva.pt/__version__)
-- http://send.busyhe.cn/ (1GB, 1 day)
-  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=http://send.busyhe.cn/__version__)
 - https://send.neoway.com.br/ (1.6GB, 1 day)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.neoway.com.br/__version__)
 - https://send.portailpro.net/ (10GB, 30 days)
