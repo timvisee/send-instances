@@ -31,6 +31,7 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://transfer.acted.org/__version__)
 - https://send.lambda.dance/ (2.5GB, 7 days) ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.lambda.dance/__version__)
 - https://send.niagan.org (8GB, 14 days) ([maintainer](https://github.com/atilleh)) ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.niagan.org/__version__)
+- https://send.silkky.cloud (20GB, 7 Days) ([maintainer](https://github.com/silkkycloud), [contact](https://silkky.cloud/help), [privacy policy](https://silkky.cloud/privacy)) ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.silkky.cloud/__version__) ![uptime](https://img.shields.io/uptimerobot/status/m788305741-3c46d730432b911283507995)
 
 ---
 
