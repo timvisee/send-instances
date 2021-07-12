@@ -21,8 +21,6 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://fileupload.ggc-project.de/__version__)
 - https://drop.chapril.org/ (1GB, 5 days) ([contact](https://www.chapril.org/contact.html))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://drop.chapril.org/__version__)
-- https://send.simaosilva.pt/ (2.5GB, 7 days)
-  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.simaosilva.pt/__version__)
 - https://send.portailpro.net/ (10GB, 30 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.portailpro.net/__version__)
 - https://bytefile.de/ (5GB, 7 days)
