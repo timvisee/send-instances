@@ -17,6 +17,8 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.silkky.cloud/__version__) ![uptime](https://img.shields.io/uptimerobot/status/m788305741-3c46d730432b911283507995)
 - https://send.niagan.org (8GB, 14 days) ([maintainer](https://github.com/atilleh))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.niagan.org/__version__)
+- https://send.jeugdhulp.be (2.5GB, 7 days) ([contact](https://www.jeugdhulp.be/contact))
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.jeugdhulp.be/__version__)
 - https://send.datahoarder.dev (1GB, 1 day) ([maintainer](https://github.com/whalehub), [contact](mailto:admin@datahoarder.dev))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.datahoarder.dev/__version__)
 - https://send.navennec.net (1GB, 1 day)
