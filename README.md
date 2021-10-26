@@ -17,6 +17,8 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.turingpoint.de/__version__)
 - https://send.silkky.cloud (20GB, 7 days) ([maintainer](https://github.com/silkkycloud), [contact](https://www.silkky.cloud/contact), [privacy policy](https://www.silkky.cloud/privacy))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.silkky.cloud/__version__) ![uptime](https://img.shields.io/uptimerobot/status/m788305741-3c46d730432b911283507995)
+- https://send.ephemeral.land (8GB, 28 days)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.ephemeral.land/__version__)
 - https://send.niagan.org (8GB, 14 days) ([maintainer](https://github.com/atilleh))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.niagan.org/__version__)
 - https://send.jeugdhulp.be (2.5GB, 7 days) ([contact](https://www.jeugdhulp.be/contact))
