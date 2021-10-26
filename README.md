@@ -11,24 +11,26 @@ security and reliability.
 
 ## Instances
 
-- https://send.vis.ee/ (10GB, 7 days) ([maintainer](https://github.com/timvisee), [contact](https://timvisee.com/contact))
+- https://send.vis.ee (10GB, 7 days) ([maintainer](https://github.com/timvisee), [contact](https://timvisee.com/contact))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.vis.ee/__version__)
-- https://send.datahoarder.dev/ (1GB, 1 day) ([maintainer](https://github.com/whalehub), [contact](mailto:admin@datahoarder.dev))
+- https://send.silkky.cloud (20GB, 7 days) ([maintainer](https://github.com/silkkycloud), [contact](https://www.silkky.cloud/contact), [privacy policy](https://www.silkky.cloud/privacy))
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.silkky.cloud/__version__) ![uptime](https://img.shields.io/uptimerobot/status/m788305741-3c46d730432b911283507995)
+- https://send.niagan.org (8GB, 14 days) ([maintainer](https://github.com/atilleh))
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.niagan.org/__version__)
+- https://send.datahoarder.dev (1GB, 1 day) ([maintainer](https://github.com/whalehub), [contact](mailto:admin@datahoarder.dev))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.datahoarder.dev/__version__)
-- https://send.navennec.net/ (1GB, 1 day)
+- https://send.navennec.net (1GB, 1 day)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.navennec.net/__version__)
-- https://fileupload.ggc-project.de/ (2.5GB, 7 days)
+- https://fileupload.ggc-project.de (2.5GB, 7 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://fileupload.ggc-project.de/__version__)
-- https://drop.chapril.org/ (1GB, 5 days) ([contact](https://www.chapril.org/contact.html))
+- https://drop.chapril.org (1GB, 5 days) ([contact](https://www.chapril.org/contact.html))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://drop.chapril.org/__version__)
-- https://send.portailpro.net/ (10GB, 30 days)
+- https://send.portailpro.net (10GB, 30 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.portailpro.net/__version__)
-- https://bytefile.de/ (5GB, 7 days)
+- https://bytefile.de (5GB, 7 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://bytefile.de/__version__)
-- https://transfer.acted.org/ (5GB, 7 days)
+- https://transfer.acted.org (5GB, 7 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://transfer.acted.org/__version__)
-- https://send.niagan.org (8GB, 14 days) ([maintainer](https://github.com/atilleh)) ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.niagan.org/__version__)
-- https://send.silkky.cloud (20GB, 7 Days) ([maintainer](https://github.com/silkkycloud), [contact](https://www.silkky.cloud/contact), [privacy policy](https://www.silkky.cloud/privacy)) ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.silkky.cloud/__version__) ![uptime](https://img.shields.io/uptimerobot/status/m788305741-3c46d730432b911283507995)
 
 ---
 
