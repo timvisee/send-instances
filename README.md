@@ -19,8 +19,6 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.turingpoint.de/__version__)
 - https://send.ephemeral.land (8GB, 28 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.ephemeral.land/__version__)
-- https://send.niagan.org (8GB, 14 days) ([maintainer](https://github.com/atilleh))
-  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.niagan.org/__version__)
 - https://send.monks.tools (5GB, 7 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.niagan.org/__version__)
 - https://send.jeugdhulp.be (2.5GB, 7 days) ([contact](https://www.jeugdhulp.be/contact))
