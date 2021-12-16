@@ -45,8 +45,6 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://transfer.acted.org/__version__)
 - https://send.fdab.se (256MB, 3 days) ([contact](https://www.fdab.se/kontakt/))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.fdab.se/__version__)
-- https://send.sethforprivacy.com (2GB, 7 days) ([maintainer](https://github.com/sethforprivacy), [contact](https://blog.sethforprivacy.com/about/#how-to-contact-me))
-  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.sethforprivacy.com/__version__)
 
 ---
 
