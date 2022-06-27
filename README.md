@@ -21,6 +21,8 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.mni.li/__version__)
 - https://send.monks.tools (5GB, 7 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.niagan.org/__version__)
+- https://send.boblorange.net/ (5GB, 7 days)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.boblorange.net/__version__)
 - https://send.aurorabilisim.com (2.5GB, 7 days) ([contact](https://www.aurorabilisim.com/iletisim/))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.aurorabilisim.com/__version__)
 - https://nhanh.cloud (2GB, 30 days)
