@@ -15,7 +15,7 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.vis.ee/__version__)
 - https://send.zcyph.cc (20GB, 365 days) ([maintainer](https://github.com/zcyph), [contact](mailto:send@zcyph.cc))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.zcyph.cc/__version__)
-- https://send.turingpoint.de (16GB, 30 days) ([contact](https://turingpoint.de/en/company/contact/))
+- https://send.turingpoint.de (8GB, 30 days) ([contact](https://turingpoint.de/en/company/contact/))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.turingpoint.de/__version__)
 - https://send.ephemeral.land (8GB, 28 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.ephemeral.land/__version__)
