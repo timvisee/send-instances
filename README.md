@@ -37,7 +37,7 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://drop.chapril.org/__version__)
 - https://send.jeugdhulp.be (50MB, 10 days) ([contact](https://www.jeugdhulp.be/contact))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.jeugdhulp.be/__version__)
-- https://files.psu.ru (16GB, 7 days)
+- https://files.psu.ru (16GB, 7 days) (no password)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://files.psu.ru/__version__)
 - https://send.portailpro.net (10GB, 30 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.portailpro.net/__version__)
