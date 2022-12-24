@@ -11,7 +11,7 @@ security and reliability.
 
 ## Instances
 
-- https://send.vis.ee (2.5GB, 7 days) ([maintainer](https://github.com/timvisee), [contact](https://timvisee.com/contact))
+- https://send.vis.ee (2.5GB, 3 days) ([maintainer](https://github.com/timvisee), [contact](https://timvisee.com/contact))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.vis.ee/__version__)
 - https://send.zcyph.cc (20GB, 365 days) ([maintainer](https://github.com/zcyph), [contact](mailto:send@zcyph.cc))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.zcyph.cc/__version__)
