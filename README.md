@@ -23,7 +23,7 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.mni.li/__version__)
 - https://send.monks.tools (5GB, 7 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.monks.tools/__version__)
-- https://send.boblorange.net (5GB, 7 days)
+- https://send.boblorange.net (2.5GB, 7 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.boblorange.net/__version__)
 - https://send.aurorabilisim.com (2.5GB, 7 days) ([contact](https://www.aurorabilisim.com/iletisim/))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.aurorabilisim.com/__version__)
@@ -39,7 +39,7 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://files.psu.ru/__version__)
 - https://send.portailpro.net (10GB, 30 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.portailpro.net/__version__)
-- https://transfer.acted.org (5GB, 7 days)
+- https://transfer.acted.org (5GB, 14 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://transfer.acted.org/__version__)
 
 ---
