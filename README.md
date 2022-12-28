@@ -41,6 +41,10 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.portailpro.net/__version__)
 - https://transfer.acted.org (5GB, 14 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://transfer.acted.org/__version__)
+- https://send.epsilonrecords.nl (2.5GB, 7 days)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.epsilonrecords.nl/__version__)
+- https://transfer.fm (2.5GB, 7 days)
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://transfer.fm/__version__)
 
 ---
 
