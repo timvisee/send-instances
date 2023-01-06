@@ -45,6 +45,8 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.epsilonrecords.nl/__version__)
 - https://transfer.fm (2.5GB, 7 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://transfer.fm/__version__)
+- https://send.datenpost.app (30GB, 7 days) ([contact](mailto:info@webality.de))
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.datenpost.app/__version__)
 
 ---
 
