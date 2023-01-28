@@ -49,6 +49,8 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.datenpost.app/__version__)
 - https://transferer.seinetransfert.fr/ (10GB, 7 days) ([contact](https://seinetransfert.fr/signaler/), [contact](mailto:contact@seinetransfert.fr))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://transferer.seinetransfert.fr/__version__)
+- https://send.angelic.icu (2.5GB, 7 days) ([contact](mailto:me@angelic.icu))
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.angelic.icu/__version__)
 
 ---
 
