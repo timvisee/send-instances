@@ -19,7 +19,7 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.q1q.wtf/__version__)
 - https://send.ephemeral.land (8GB, 28 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.ephemeral.land/__version__)
-- https://send.mni.li (8GB, 15 days)
+- https://send.mni.li (8GB, 7 days) ([contact](https://cryptpad.fr/form/#/2/form/view/gj2mDNekg5gf+AKPkTqLGY9W2Fa2rjceLFISeeLZa3Y/))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.mni.li/__version__)
 - https://send.monks.tools (5GB, 7 days)
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.monks.tools/__version__)
