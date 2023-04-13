@@ -25,6 +25,8 @@ security and reliability.
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.boblorange.net/__version__)
 - https://send.aurorabilisim.com (2.5GB, 7 days) ([contact](https://www.aurorabilisim.com/iletisim/))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.aurorabilisim.com/__version__)
+- https://send.artemislena.eu (2.5GB, 7 days) ([contact](https://artemislena.eu/contact.html))
+  ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.artemislena.eu/__version__)
 - https://send.datahoarder.dev (1GB, 1 day) ([maintainer](https://github.com/whalehub), [contact](mailto:admin@datahoarder.dev))
   ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.datahoarder.dev/__version__)
 - https://fileupload.ggc-project.de (2.5GB, 7 days)
