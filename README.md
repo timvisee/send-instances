@@ -30,6 +30,7 @@ https://send.portailpro.net | 10GiB | 30 days | 100 | | France 🇫🇷 | ![vers
 https://transfer.acted.org | 5GiB | 14 days | 3,000 | | France 🇫🇷 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://transfer.acted.org/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m794230739-463fdbc2d9c115069d8db1f1)
 https://send.datenpost.app | 30GiB | 7 days | 3 | [contact](mailto:info@webality.de) | Germany 🇩🇪 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.datenpost.app/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m794230691-8f60854620eb9d40dae7461e)
 https://send.angelic.icu | 2.5GiB | 7 days | 50 | [contact](mailto:me@angelic.icu) | Romania 🇷🇴 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.angelic.icu/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m794230747-a87dcbdff5b01eb9c5f92b6c)
+https://s.opnxng.com | 2.5GiB | 7 days | 25 | [contact](https://about.opnxng.com/) | Singapore 🇸🇬 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://s.opnxng.com/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m794398378-baf9f42c4a7e416bc51f5ba0)
 
 Users can view the historic reliability of the Send instances on [this status page](https://stats.uptimerobot.com/5917xHMX01). Click each instance on that page for more details.
 
