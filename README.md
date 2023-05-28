@@ -32,7 +32,7 @@ https://send.datenpost.app | 30GiB | 7 days | 3 | [contact](mailto:info@webality
 https://send.angelic.icu | 2.5GiB | 7 days | 50 | [contact](mailto:me@angelic.icu) | Romania 🇷🇴 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.angelic.icu/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m794230747-a87dcbdff5b01eb9c5f92b6c)
 https://s.opnxng.com | 2.5GiB | 7 days | 25 | [contact](https://about.opnxng.com/) | Singapore 🇸🇬 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://s.opnxng.com/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m794398378-baf9f42c4a7e416bc51f5ba0)
 https://send.whateveritworks.org | 10GiB | 7 days | 100 | [contact](https://www.whateveritworks.org/email) | Germany 🇩🇪 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.whateveritworks.org/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m794407638-626e4c3452c6933ad106a402)
-
+https://send.cyberjake.xyz | 10GiB | 30 days | 1000 | [contact](mailto:connect@cyberjake.xyz) | United States 🇺🇸 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.cyberjake.xyz/__version__) | |
 Users can view the historic reliability of the Send instances on [this status page](https://stats.uptimerobot.com/5917xHMX01). Click each instance on that page for more details.
 
 ---
