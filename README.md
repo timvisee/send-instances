@@ -36,6 +36,7 @@ https://send.adminforge.de | 8GiB | 7 days | 1,000 | | Germany 🇩🇪 | ![vers
 https://send.turingpoint.de | 8GiB | 7 days | 10 | | Germany 🇩🇪 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.turingpoint.de/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m794987552-6ad4b750a79fc8140bbf8c97)
 https://send.nsh.social | 8GiB | 7 days | 30 | | Finland 🇫🇮 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.nsh.social/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m795870101-29cd22732fe2ff13840e12af)
 https://send.aslaets.be | 512MiB | 7 days | 3 | [contact](mailto:webmaster@aslaets.be) | Germany 🇩🇪 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.aslaets.be/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m796304730-80bcaabc08d1802eafa0d662)
+https://send.codespace.cz | 10GiB | 7 days | 100 | [contact](mailto:admin@codespace.cz) | Czechia 🇨🇿 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.codespace.cz/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m796740556-25b70adf323084cded55b231)
 
 Users can view the historic reliability of the Send instances on [this status page](https://stats.uptimerobot.com/5917xHMX01). Click each instance on that page for more details.
 
