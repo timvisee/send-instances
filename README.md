@@ -45,7 +45,9 @@ Users can view the historic reliability of the Send instances on [this status pa
 
 ## How to use
 
-To use a specific instance, simply open the application in your webbrowser.
+To use a specific instance, simply open the application in your web browser.
+
+### Command line
 
 To use a specific instance from the command line with [ffsend][ffsend], provide
 the `--host URL` flag while uploading.
@@ -54,6 +56,16 @@ the `--host URL` flag while uploading.
 # ffsend upload to custom host
 ffsend upload --host https://send.vis.ee/ FILE
 ```
+
+### Thunderbird
+
+To use a specific instance in Thunderbird with the [FileLink provider for Send](https://addons.thunderbird.net/thunderbird/addon/filelink-provider-for-send/) add-on, open the account management pages.
+1. Go to the Thunderbird Menu (≡) > ⚙️ Settings, click ✏️ Composition on the left and scroll down to the “Attachments” section.
+2. Either select one of the existing Send accounts from the list or click the “Add Thunderbird Send” button to add a new account.
+3. Enter the URL in the “Send service instance URL” field and click the “Verify” button.
+4. Lastly, enter the size limit from the above table in the “Maximum file size” field.
+
+If using multiple instances, double click on each account in the list to give them unique names. For more information on using the FileLink feature in Thunderbird, please see the official documentation in [Thunderbird Support](https://support.mozilla.org/kb/filelink-large-attachments).
 
 ## Host your own instance
 
