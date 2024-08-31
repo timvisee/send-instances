@@ -38,6 +38,7 @@ https://upload.nolog.cz | 5GiB | 7 days | 100 | [contact](mailto:nolog-it@riseup
 https://ch.skysend.ch | 15GiB | 7 days | 1,000 | part of [skysend.ch](https://skysend.ch/) | Switzerland 🇨🇭 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://ch.skysend.ch/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m797357165-5d5c29949fb94352551184e1)
 https://de.skysend.ch | 50GiB | 7 days | 1,000 | part of [skysend.ch](https://skysend.ch/) | Germany 🇩🇪 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://de.skysend.ch/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m797357171-737c07b9f3fddbd4f5dce7b2)
 https://allthefiles.net | 5GiB | 7 days | 100 | | United States 🇺🇸 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://allthefiles.net/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m797357172-950f64be6e11b7e57e771736)
+https://send.canine.tools | 1GiB | 7 days | 100 | | United States 🇺🇸 | ![version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://send.canine.tools/__version__) | ![Uptime (90 days)](https://img.shields.io/uptimerobot/ratio/90/m797597760-4d387ccb840fd13dbecccaea)
 
 Users can view the historic reliability of the Send instances on [this status page](https://stats.uptimerobot.com/5917xHMX01). Click each instance on that page for more details.
 
