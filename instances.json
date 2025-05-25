@@ -1,0 +1,269 @@
+[
+	{
+		"url": "https://send.vis.ee",
+		"size_limit": 2684354560,
+		"time_limit": 259200,
+		"download_limit": 10,
+		"links": {
+			"maintainer": "https://github.com/timvisee",
+			"contact": "https://timvisee.com/contact"
+		},
+		"country": "NL"
+	},
+	{
+		"url": "https://send.mni.li",
+		"size_limit": 8589934592,
+		"time_limit": 604800,
+		"download_limit": 25,
+		"links": {
+			"contact": "https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2FHG6d9i0a0xByjiaMl2Ja50n4LvwTNodHR03NImjI-W8%3D%40smp.mni.li%2FrdawfIlxAGy0bGqi0exZQtfkrO76JTC4%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAxT_5ZAwwhuHthlIOKMKaHfdvrHA84NFlz8ux4aklk3w%253D"
+		},
+		"country": "DE"
+	},
+	{
+		"url": "https://send.monks.tools",
+		"size_limit": 5368709120,
+		"time_limit": 604800,
+		"download_limit": 50,
+		"links": {},
+		"country": "US"
+	},
+	{
+		"url": "https://send.boblorange.net",
+		"size_limit": 2684354560,
+		"time_limit": 604800,
+		"download_limit": 100,
+		"links": {},
+		"country": "PT"
+	},
+	{
+		"url": "https://send.aurorabilisim.com",
+		"size_limit": 2684354560,
+		"time_limit": 604800,
+		"download_limit": 100,
+		"links": {
+			"contact": "https://www.aurorabilisim.com/iletisim/"
+		},
+		"country": "TR"
+	},
+	{
+		"url": "https://send.dogy.cloud",
+		"size_limit": 8589934592,
+		"time_limit": 259200,
+		"download_limit": 1000,
+		"links": {
+			"contact": "https://dogy.cloud/contact"
+		},
+		"country": "TR"
+	},
+	{
+		"url": "https://send.artemislena.eu",
+		"size_limit": 2684354560,
+		"time_limit": 604800,
+		"download_limit": 100,
+		"links": {
+			"contact": "https://artemislena.eu/contact.html"
+		},
+		"country": "DE"
+	},
+	{
+		"url": "https://fileupload.ggc-project.de",
+		"size_limit": 2684354560,
+		"time_limit": 604800,
+		"download_limit": 100,
+		"links": {},
+		"country": "DE"
+	},
+	{
+		"url": "https://drop.chapril.org",
+		"size_limit": 1073741824,
+		"time_limit": 432000,
+		"download_limit": 100,
+		"links": {
+			"contact": "https://www.chapril.org/contact.html"
+		},
+		"country": "DE"
+	},
+	{
+		"url": "https://send.jeugdhulp.be",
+		"size_limit": 52428800,
+		"time_limit": 864000,
+		"download_limit": 25,
+		"links": {
+			"contact": "https://www.jeugdhulp.be/contact"
+		},
+		"country": "FR"
+	},
+	{
+		"url": "https://files.psu.ru",
+		"size_limit": 17179869184,
+		"time_limit": 604800,
+		"download_limit": 500,
+		"links": {},
+		"country": "RU"
+	},
+	{
+		"url": "https://send.datenpost.app",
+		"size_limit": 32212254720,
+		"time_limit": 604800,
+		"download_limit": 3,
+		"links": {
+			"contact": "mailto:info@webality.de"
+		},
+		"country": "DE"
+	},
+	{
+		"url": "https://s.opnxng.com",
+		"size_limit": 2684354560,
+		"time_limit": 604800,
+		"download_limit": 25,
+		"links": {
+			"contact": "https://about.opnxng.com/"
+		},
+		"country": "SG"
+	},
+	{
+		"url": "https://send.cyberjake.xyz",
+		"size_limit": 10737418240,
+		"time_limit": 2592000,
+		"download_limit": 100,
+		"links": {
+			"contact": "mailto:connect@cyberjake.xyz"
+		},
+		"country": "US"
+	},
+	{
+		"url": "https://send.kokomo.cloud",
+		"size_limit": 2684354560,
+		"time_limit": 604800,
+		"download_limit": 100,
+		"links": {
+			"maintainer": "https://github.com/kokomo123",
+			"contact": "mailto:admin@kokomo.cloud"
+		},
+		"country": "US"
+	},
+	{
+		"url": "https://send.adminforge.de",
+		"size_limit": 8589934592,
+		"time_limit": 604800,
+		"download_limit": 1000,
+		"links": {},
+		"country": "DE"
+	},
+	{
+		"url": "https://send.turingpoint.de",
+		"size_limit": 10737418240,
+		"time_limit": 604800,
+		"download_limit": 10,
+		"links": {},
+		"country": "DE"
+	},
+	{
+		"url": "https://send.aslaets.be",
+		"size_limit": 536870912,
+		"time_limit": 604800,
+		"download_limit": 3,
+		"links": {
+			"contact": "mailto:webmaster@aslaets.be"
+		},
+		"country": "DE"
+	},
+	{
+		"url": "https://send.codespace.cz",
+		"size_limit": 10737418240,
+		"time_limit": 604800,
+		"download_limit": 100,
+		"links": {
+			"contact": "mailto:admin@codespace.cz"
+		},
+		"country": "CZ"
+	},
+	{
+		"url": "https://upload.nolog.cz",
+		"size_limit": 5368709120,
+		"time_limit": 604800,
+		"download_limit": 100,
+		"links": {
+			"contact": "mailto:nolog-it@riseup.net"
+		},
+		"country": "CZ"
+	},
+	{
+		"url": "https://ch.skysend.ch",
+		"size_limit": 16106127360,
+		"time_limit": 604800,
+		"download_limit": 1000,
+		"links": {
+			"part of": "https://skysend.ch/"
+		},
+		"country": "CH"
+	},
+	{
+		"url": "https://de.skysend.ch",
+		"size_limit": 53687091200,
+		"time_limit": 604800,
+		"download_limit": 1000,
+		"links": {
+			"part of": "https://skysend.ch/"
+		},
+		"country": "DE"
+	},
+	{
+		"url": "https://allthefiles.net",
+		"size_limit": 2684354560,
+		"time_limit": 604800,
+		"download_limit": 100,
+		"links": {},
+		"country": "US"
+	},
+	{
+		"url": "https://send.canine.tools",
+		"size_limit": 1073741824,
+		"time_limit": 604800,
+		"download_limit": 100,
+		"links": {
+			"homepage": "https://canine.tools/"
+		},
+		"country": "US"
+	},
+	{
+		"url": "https://secureshar.ing",
+		"size_limit": 8589934592,
+		"time_limit": 604800,
+		"download_limit": 25,
+		"links": {
+			"contact": "https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2FHG6d9i0a0xByjiaMl2Ja50n4LvwTNodHR03NImjI-W8%3D%40smp.mni.li%2FrdawfIlxAGy0bGqi0exZQtfkrO76JTC4%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAxT_5ZAwwhuHthlIOKMKaHfdvrHA84NFlz8ux4aklk3w%253D"
+		},
+		"country": "DE"
+	},
+	{
+		"url": "https://send.aezafiles.net",
+		"size_limit": 107374182400,
+		"time_limit": 604800,
+		"download_limit": 10,
+		"links": {
+			"contact": "https://aeza.net/contacts"
+		},
+		"country": "RU"
+	},
+	{
+		"url": "https://send.sdad.pro",
+		"size_limit": 2147483648,
+		"time_limit": 604800,
+		"download_limit": 100,
+		"links": {},
+		"country": "IN"
+	},
+	{
+		"url": "https://send.skylerszijjarto.com",
+		"size_limit": 268435456000,
+		"time_limit": 604800,
+		"download_limit": 10000,
+		"links": {
+			"maintainer": "https://github.com/skylermedia",
+			"contact": "mailto:webmaster@skyler.media"
+		},
+		"country": "US"
+	}
+]
