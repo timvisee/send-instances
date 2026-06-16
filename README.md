@@ -39,6 +39,12 @@ Visit [our status page](https://tdulcet.github.io/send-instances-status/) or cli
 
 ---
 
+### Find the fastest instance
+
+To automatically find the fastest Send instance near you, visit **[ssf.sdad.pro](https://ssf.sdad.pro)**. It tests 20+ community-hosted servers from your browser and ranks them by response speed, location, and file size limits.
+
+---
+
 ## How to use
 
 To use a specific instance, simply open the application in your web browser.
